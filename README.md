@@ -1,4 +1,4 @@
-# k-means-clustering
+# k-means-clustering-implement
 
 k means clustering for image
 
@@ -12,4 +12,7 @@ result :
 ![k(=15) means clustering image_screenshot](https://user-images.githubusercontent.com/87146486/171915705-33887028-3a87-4fee-8206-708caf44429a.png)
 
 
+
+
+other result :
 ![k means clustering__320*240_k=5](https://user-images.githubusercontent.com/87146486/171915836-3eacb142-95c5-4abe-86b0-16897cbaa214.png)
